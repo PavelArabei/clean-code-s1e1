@@ -127,7 +127,11 @@
   align-items: center;
 }
 
-.todo > * {
+.todo__checkbox,
+.todo__label,
+.todo__input,
+.todo__edit-button,
+.todo__delete-button {
   vertical-align: middle;
 }
 
